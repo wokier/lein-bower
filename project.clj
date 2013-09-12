@@ -1,4 +1,4 @@
-(defproject org.clojars.wokier/lein-bower "0.4.0"
+(defproject org.clojars.wokier/lein-bower "0.5.0"
   :description "Clojure Leiningen Plugin for Bower web lib dependency management "
   :url "https://github.com/wokier/lein-bower"
   :license {:name "Eclipse Public License"
