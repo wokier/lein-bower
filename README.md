@@ -1,7 +1,9 @@
 lein-bower
 ==========
 
-Clojure Leiningen Plugin for bower web lib dependency management
+Clojure Leiningen Plugin for bower web lib dependency management.
+
+Based on http://bower.io/ and https://npmjs.org/
 
 ## Usage
 
@@ -15,3 +17,7 @@ $ lein bower
 
 Add :prep-tasks ["javac" "compile" "bower"]` to your project.clj.
 
+
+## Example
+
+https://github.com/wokier/toclojure
